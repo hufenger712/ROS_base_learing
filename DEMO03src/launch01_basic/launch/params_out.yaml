@@ -1,0 +1,24 @@
+bg_B: 255
+bg_G: 50
+bg_R: 100
+my_turtle:
+  background_b: 255
+  background_g: 86
+  background_r: 69
+  bg_B: 255
+  bg_G: 50
+  bg_R: 100
+  param_B: 3.14
+param_A: 100
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_jing_virtualbox__33121: http://jing-VirtualBox:33121/
+    host_jing_virtualbox__37473: http://jing-VirtualBox:37473/
+    host_jing_virtualbox__45837: http://jing-VirtualBox:45837/
+rosversion: '1.17.0
+
+  '
+run_id: a5305f5e-ed33-11ef-992a-4f64759025e1
